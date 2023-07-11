@@ -16,6 +16,6 @@ https://www.alextheanalyst.com/
 
 ## How to View the project in a dashboard
 
-The project has a static pdf file of the PowerBI project in the repository. However, to view the project dynamically download the PowerBI project file and open it on PowerBI.
+The project has a static pdf file of the PowerBI project in the repository. However, to view the project dynamically download the PowerBI project file and open it on PowerBI. (PoweBI must be already download)
 
 The PowerPoint presentation in the repository has the project results shown dynamically. However, it requires you to have a PowerBI account to open it.
